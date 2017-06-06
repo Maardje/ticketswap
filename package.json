@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cron": "^1.2.1",
     "nightmare": "^2.10.0"
   }
 }
